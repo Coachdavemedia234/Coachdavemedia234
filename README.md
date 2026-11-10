@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @Coachdavemedia234
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello, I'm Ojeamiran Airenogbuan Davidson 👋
 
-<!---
-Coachdavemedia234/Coachdavemedia234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Creative Entrepreneur | Painting & Interior Decoration Professional
+
+Welcome to my GitHub profile!
+
+I'm a creative entrepreneur with practical experience in painting, interior decoration, creative project execution, and business development.
+
+ My Skills
+
+- Interior and Exterior Painting
+- Interior Decoration
+- Colour Combination and Finishing
+- Creative Project Planning
+- Business Management
+- Customer Relations
+
+ Currently Developing
+
+- Digital and Technology Skills
+- Project Management
+- Professional Development
+- Remote Work Skills
+
+ I'm Interested In
+
+- Remote Job Opportunities
+- International Collaboration
+- Creative Projects
+- Professional Networking
+- Learning New Skills
+
+ Connect With Me
+
+- TikTok: @purebrushpainter
+- GitHub: @purebrushpainter
+
+ My Goal
+
+To combine my creativity, practical experience, and developing digital skills to contribute to meaningful projects and opportunities around the world.
+
+Thank you for visiting my profile!
